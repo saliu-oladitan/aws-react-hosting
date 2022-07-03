@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edited aws<code>src/App.js</code> and save to reload. 
+          My React App Launched to AWS Amplify
         </p>
         <a
           className="App-link"
